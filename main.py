@@ -1,2 +1,2 @@
-a = 4  #main loop
+a = 4
 print(a)
